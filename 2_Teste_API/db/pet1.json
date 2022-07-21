@@ -1,0 +1,19 @@
+{
+  "id": 10030,
+  "category": {
+    "id": 1,
+    "name": "gato"
+  },
+
+  "name": "Bichento",
+  "photoUrls": [
+    "https://br.jetss.com/wp-content/uploads/2018/07/31907940_2100809473324119_2122429626293682176_n-e1532093669742.jpg"  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "vacinado"
+    }
+  ],
+
+  "status": "available"
+}

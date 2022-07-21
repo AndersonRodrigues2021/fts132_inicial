@@ -1,0 +1,18 @@
+{
+  "id": 10030,
+  "category": {
+    "id": 1,
+    "name": "cachorro"
+  },
+  "name": "Bichento",
+  "photoUrls": [
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cachorrogato.com.br%2Fcachorros%2Fbicheira%2F&psig=AOvVaw34PyL-M4NEnWSLlBZJQxKR&ust=1651886591707000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNi9wKLbyfcCFQAAAAAdAAAAABAD"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "vacinado"
+    }
+  ],
+  "status": "available"
+}
